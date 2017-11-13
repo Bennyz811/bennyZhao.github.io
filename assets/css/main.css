@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #65525e;
 		}
 
 		.wrapper.style3-alt {
@@ -3916,4 +3916,10 @@
 				background-attachment: scroll;
 			}
 
+		}
+		
+		.head-shot{
+			width: 260px; 
+			height: 250px;
+			border-radius: 55px;
 		}
