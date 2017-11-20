@@ -3811,6 +3811,14 @@
 		}
 
 		@media screen and (max-width: 1280px) {
+			/*profile picture*/
+
+			#sidebar .head-shot {
+				width: 50px;
+				height: 50px;
+				margin-right: 25px;
+				margin-top: 4px;
+			}
 
 			#sidebar {
 				height: 3.5em;
@@ -3919,7 +3927,7 @@
 		}
 
 		.head-shot{
-			width: 260px; 
+			width: 260px;
 			height: 250px;
 			border-radius: 55px;
 		}
