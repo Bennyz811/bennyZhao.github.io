@@ -3820,6 +3820,7 @@
 				height: 50px;
 				margin-right: 25px;
 				margin-top: 4px;
+				object-fit: cover;
 			}
 
 			#sidebar {
@@ -3932,4 +3933,5 @@
 			width: 246px;
 			height: 195px;
 			border-radius: 55px;
+			object-fit: cover;
 		}
